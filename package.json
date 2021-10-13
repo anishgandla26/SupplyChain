@@ -1,0 +1,33 @@
+{
+  "name": "SupplyChain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "caniuse-lite": "^1.0.30001261",
+    "caseless": "^0.12.0",
+    "chownr": "^1.1.4",
+    "class-is": "^1.1.0",
+    "clone": "^2.1.2",
+    "next": "^10.0.9",
+    "next-routes": "^1.4.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.4",
+    "web3": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
